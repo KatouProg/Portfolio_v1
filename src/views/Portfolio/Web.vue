@@ -94,6 +94,20 @@ export default {
             tech4: "MySql"
           },
           poster: "https://zupimages.net/up/22/16/p7zm.png"
+        },
+
+        {
+          dialog: false,
+          title: "OHMYFOOD!",
+          git: "https://github.com/KatouProg/QuentinBuxo_3_19082021",
+          demo: "https://katouprog.github.io/QuentinBuxo_3_19082021/",
+          tech: {
+            tech1: "Html",
+            tech2: "Css",
+            tech3: "Scss",
+            tech4: "Animations"
+          },
+          poster: "https://zupimages.net/up/22/21/o83a.png"
         }
       ]
     };
